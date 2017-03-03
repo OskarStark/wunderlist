@@ -16,6 +16,7 @@
     }
   ],
   "require": {
+    "php": ">=5.5",
     "nesbot/carbon": "~1.17",
     "easyframework/collections": "~4.0",
     "guzzlehttp/guzzle": "~5.2",
